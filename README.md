@@ -41,7 +41,7 @@
 ![ss14](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/bfb824e1-ec28-49c5-92ff-3b6d022576e7)
 
 ![ss15](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/cdb59c8e-014d-4d12-824c-0304f8eae5bd)
-#
+
 
 #
 ```
@@ -65,7 +65,7 @@ Latihan
 ![ss19](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/a5ab29b8-6d9c-4c5a-8cc3-955177d001cb)
 
 #
-
+## Latihan 2
 #
 
 ### 1. JOIN table Mahasiswa dan Dosen
