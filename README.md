@@ -41,7 +41,9 @@
 ![ss14](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/bfb824e1-ec28-49c5-92ff-3b6d022576e7)
 
 ![ss15](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/cdb59c8e-014d-4d12-824c-0304f8eae5bd)
+#
 
+#
 ```
 Latihan
 1. Lakukan join table Mahasiswa dan Dosen
@@ -62,13 +64,20 @@ Latihan
 ### 4. Lakukan join tabel KrsMahasiswa, Mahasiswa, Matakuliah, dan Dosen
 ![ss19](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/a5ab29b8-6d9c-4c5a-8cc3-955177d001cb)
 
+#
 
+#
+
+### 1. JOIN table Mahasiswa dan Dosen
 ![ss20](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/ccc7321d-8790-4a12-baa9-2569a78596f6)
 
+### 2. LEFT JOIN table Mahasiswa dan Dosen
 ![ss21](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/db56e055-4681-460f-85e0-89b99c2fa13d)
 
+### 3. JOIN table JadwalMengajar, Dosen, dan Matakuliah
 ![ss22](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/d45d9f24-0645-4773-85f0-450569dc9074)
 
+### 4. JOIN table JadwalMengajar, Dosen, dan Matakuliah
 ![ss23](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/53baf5bf-7ffe-46f3-ad18-7a687a533a37)
 
 
