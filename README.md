@@ -2,6 +2,7 @@
 
 
 ### * Input Data Table
+#### 1. Membuat Table Mahasiswa
 
 ![ss1](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/9d16c6eb-6158-43dd-98e4-8b5c13b17022)
 
@@ -9,11 +10,15 @@
 
 ![ss3](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/5b0bff82-b963-418f-8569-548ad944aac4)
 
+#### 2. Membuat Table Dosen
+
 ![ss4](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/31e49be9-0200-493d-9457-dc3611b48790)
 
 ![ss5](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/dfb27e84-5e01-4f14-b3a6-914c91df4c52)
 
 ![ss6](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/07cb60ae-fa83-4cd8-9db2-3fdd5291e89c)
+
+#### 3. Membuat Table MataKuliah
 
 ![ss7](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/0a1d7d54-062d-45d3-976d-03d4978cff4b)
 
@@ -21,11 +26,15 @@
 
 ![ss9](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/0f97aa30-70cb-4314-88d8-794d13182c67)
 
+#### 4. Membuat Table JadwalMengajar
+
 ![ss10](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/2ec3b189-db4d-4334-8338-8bec965828a2)
 
 ![ss11](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/986f0e85-d3a0-47ed-9cf3-f22139ee6187)
 
 ![ss12](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/30ae4b79-59ba-4bfd-b23a-824ab258844a)
+
+#### 5. Membuat Table KRSMahasiswa
 
 ![ss13](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/fe4532aa-7eb9-4900-b39b-b7ac2b54d089)
 
