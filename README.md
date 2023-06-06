@@ -4,44 +4,44 @@
 ## * Input Data Table
 ### 1. Membuat Table Mahasiswa
 
-![ss1](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/9d16c6eb-6158-43dd-98e4-8b5c13b17022)
+![ss1](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/c750cde8-d082-4177-8c0a-2cc3a266e133)
 
-![ss2](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/ff81877b-9677-4135-9023-d302c5a1c569)
+![ss2](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/ef574e93-9a48-4e69-82a0-754353201fff)
 
-![ss3](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/5b0bff82-b963-418f-8569-548ad944aac4)
+![ss3](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/67063ee2-6b4c-470c-bf59-b782095ced5f)
+
 
 ### 2. Membuat Table Dosen
 
-![ss4](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/31e49be9-0200-493d-9457-dc3611b48790)
+![ss4](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/3d1475f2-d716-4375-aad8-bfcccb2dc7e9)
 
-![ss5](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/dfb27e84-5e01-4f14-b3a6-914c91df4c52)
+![ss5](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/7de7e748-e495-4706-80bf-4a92cc4ab897)
 
-![ss6](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/07cb60ae-fa83-4cd8-9db2-3fdd5291e89c)
+![ss6](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/2476dbd1-a320-4f42-8acc-85b9bde1b319)
 
 ### 3. Membuat Table MataKuliah
 
-![ss7](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/0a1d7d54-062d-45d3-976d-03d4978cff4b)
+![ss7](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/be320935-f22b-4c64-9df9-2fda44991d35)
 
-![ss8](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/2be8fb3a-28c9-440c-8022-2978d1bb59d6)
+![ss8](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/a2e85b0c-31ac-43b8-a613-6b77918c4516)
 
-![ss9](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/0f97aa30-70cb-4314-88d8-794d13182c67)
+![ss9](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/1c20ea8d-3e19-44f9-b612-e9781d828c85)
 
 ### 4. Membuat Table JadwalMengajar
 
-![ss10](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/2ec3b189-db4d-4334-8338-8bec965828a2)
+![ss10](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/4d6966a9-1373-4e93-9b18-5628716d26c3)
 
-![ss11](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/986f0e85-d3a0-47ed-9cf3-f22139ee6187)
+![ss11](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/7ea0d89d-2640-4b27-a388-882efd8261f1)
 
-![ss12](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/30ae4b79-59ba-4bfd-b23a-824ab258844a)
+![ss12](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/7cc4e7c8-91d5-4489-9754-cf6040488d68)
 
 ### 5. Membuat Table KRSMahasiswa
 
-![ss13](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/fe4532aa-7eb9-4900-b39b-b7ac2b54d089)
+![ss13](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/4d62f803-c3a1-4a7b-bd06-67d171cd47c8)
 
-![ss14](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/bfb824e1-ec28-49c5-92ff-3b6d022576e7)
+![ss14](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/4e461870-cf1b-458c-963c-d622a27ee53b)
 
-![ss15](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/cdb59c8e-014d-4d12-824c-0304f8eae5bd)
-
+![ss15](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/de44e4f4-e26f-4d30-b751-4dcc0b38361b)
 
 #
 ```
@@ -53,32 +53,39 @@ Latihan
 ```
 
 ### 1. Lakukan join table Mahasiswa dan Dosen
-![ss16](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/720409df-f0dd-438a-b1df-52547ca8aa52)
+
+![ss16](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/8168f68c-a61d-473f-8fbd-058eb5a725d4)
 
 ### 2. Lakukan join tabel Matakuliah dan Dosen
-![ss17](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/f790f9cd-57d8-43c9-9e34-619a10994e1a)
+
+![ss17](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/f2413b1b-9f81-4da5-98d8-1cdd8e05c26a)
 
 ### 3. Lakukan join table JadwalMengajar, Dosen, dan Matakuliah
-![ss18](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/a988aec0-5a2a-4d20-b3ec-daba911eb959)
+
+![ss18](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/7580b8e7-1ecd-4ea9-b6a7-07739ce83487)
 
 ### 4. Lakukan join tabel KrsMahasiswa, Mahasiswa, Matakuliah, dan Dosen
-![ss19](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/a5ab29b8-6d9c-4c5a-8cc3-955177d001cb)
+
+![ss19](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/2b19d9a7-df40-436a-8275-cf9af82c9754)
 
 #
 ## Latihan 2
-#
 
 ### 1. JOIN table Mahasiswa dan Dosen
-![ss20](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/ccc7321d-8790-4a12-baa9-2569a78596f6)
+
+![ss20](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/b49bb6b2-058e-40b9-b455-7bd3bb05ee68)
 
 ### 2. LEFT JOIN table Mahasiswa dan Dosen
-![ss21](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/db56e055-4681-460f-85e0-89b99c2fa13d)
+
+![ss21](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/5eeb7afa-6bbb-46b6-b683-5e050f636c0a)
 
 ### 3. JOIN table JadwalMengajar, Dosen, dan Matakuliah
-![ss22](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/d45d9f24-0645-4773-85f0-450569dc9074)
+
+![ss22](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/cec95cf1-3827-4d44-b70c-36264989ce07)
 
 ### 4. JOIN table JadwalMengajar, Dosen, dan Matakuliah
-![ss23](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/53baf5bf-7ffe-46f3-ad18-7a687a533a37)
+
+![ss23](https://github.com/FsBagaskorooooo/Praktikum5/assets/130354090/68f01447-10e7-42fe-8ae4-1a6e8467ea10)
 
 
 
